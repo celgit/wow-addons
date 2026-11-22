@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Auto Trash Seller
+## Notes: Sells your trash automatically at merchants. Ctrl+right-click items to mark them as trash or keep.
+## Author: cel
+## Version: 0.1.0
+## SavedVariablesPerCharacter: AutoTrashSellerCharDB
+
+AutoTrashSeller.lua

@@ -1,0 +1,8 @@
+## Interface: 11507
+## Title: Random Character Journey
+## Notes: Generates a randomized WoW Classic leveling journey without acting as a quest guide.
+## Author: cel
+## Version: 0.3.0
+## SavedVariables: RandomCharacterJourneyDB
+
+RandomCharacterJourney.lua

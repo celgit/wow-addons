@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Ding ETA
+## Notes: Small panel with XP per hour and estimated time to your next level.
+## Author: cel
+## Version: 0.1.0
+## SavedVariablesPerCharacter: DingETACharDB
+
+DingETA.lua

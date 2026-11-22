@@ -1,0 +1,7 @@
+## Interface: 11403
+## Title: Random Character Journey
+## Notes: Gives each character a unique adventure by generating a randomized leveling journey.
+## Version: 1.0
+## Author: Your Name
+
+RandomCharacterJourney.lua

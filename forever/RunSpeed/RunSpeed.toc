@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Run Speed
+## Notes: Small box showing your movement speed in percent.
+## Author: cel
+## Version: 0.1.0
+## OptionalDeps: DingETA
+## SavedVariablesPerCharacter: RunSpeedCharDB
+
+RunSpeed.lua

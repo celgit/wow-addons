@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: Random Class Dice
+## Notes: Rolls your next WoW Forever class when you level up, run out of rested XP, die or enter a rested area.
+## Author: cel
+## Version: 0.18.0
+## SavedVariables: RandomClassOracleDB
+## SavedVariablesPerCharacter: RandomClassOracleCharDB
+
+RandomClassOracle.lua
+Options.lua
+Minimap.lua
